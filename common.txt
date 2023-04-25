@@ -5,3 +5,7 @@
 function a(){
 
 }
+
+function c(){
+
+}
